@@ -2,7 +2,7 @@
 
 namespace Inflowmation.Models
 {
-    public class Request
+    public class Issue
     {
         public int Id { get; set; }
         public string? Title { get; set; }
